@@ -1,0 +1,1 @@
+ IL(Intermediate language)= it is a language the CPU is independent, also called MSIL or CIL,This is what actually                                                  lives inside your .dll.
