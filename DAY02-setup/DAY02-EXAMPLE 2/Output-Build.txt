@@ -1,0 +1,6 @@
+﻿Build started at 12:26 PM...
+1>------ Build started: Project: DAY02-EXAMPLE 2, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  DAY02-EXAMPLE 2 -> C:\Users\ykaly\source\repos\CSharp-Fundamentals\DAY02-setup\DAY02-EXAMPLE 2\DAY02-EXAMPLE 2\bin\Debug\net10.0\DAY02-EXAMPLE 2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:26 PM and took 00.523 seconds ==========
